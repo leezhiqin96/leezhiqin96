@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leezhiqin96" alt="leezhiqin96" /></a> </p>
 
-- 🌱 I’m currently learning **react**
-
 - 📫 How to reach me **leezhiqinuk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
